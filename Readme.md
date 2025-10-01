@@ -72,12 +72,12 @@ Recognized as an **ICPC Gold & Silver Medalist**, I bring strong **problem-solvi
 
 ---
 
-### 🔹 jinOs@ai
+### 🔹 jinOs
 **An AI-powered, cross-platform operating system** with Rust kernel + Flutter GUI.  
 - Runs on **PC (x86_64) and Smartphones (ARM64)**  
 - Supports **local + server-based AI** for low-power devices  
 - **SEO Keywords**: `Rust OS`, `AI-powered operating system`, `Flutter GUI kernel`  
-🔗 [GitHub Repo](https://github.com/wak327/jinos-ai)  
+🔗 [GitHub Repo](https://github.com/wak327/jinos)  
 
 ---
 
