@@ -1,40 +1,46 @@
 # 👋 Hi, I'm Muhammad Waleed Khalid
 
-🚀 **Backend & DevOps Engineer | AI/ML Enthusiast | Open Source Builder**  
+🚀 **Senior Backend & DevOps Engineer | AI/ML Enthusiast | Web3 & Blockchain Explorer | Open Source Builder**  
 🏅 **ICPC Gold Medalist (2022) & Silver Medalist (2021)**  
-💡 Passionate about **Python, Rust, DevOps, Cloud, and AI-powered Operating Systems**
+💡 Passionate about **Python, Rust, Go, Ruby on Rails, DevOps, Cloud, Cybersecurity, and AI-powered Operating Systems**
 
 ---
 
 ## 🌟 About Me
 
-I’m a highly motivated **Software Engineer** specializing in **Backend Development, DevOps, and AI/ML solutions**.  
-worked at **Noon**, **JiBE ERP**, **Pakwheels.com**, and **Ebryx**, where I build scalable systems, optimize infrastructure, and deliver production-ready services.  
+I’m a highly motivated **Software Engineer** with 5+ years of experience in **Backend Development, DevOps, Blockchain, Cybersecurity, and AI/ML solutions**.  
 
-With over **5+ years of hands-on experience**, I have designed and implemented **cloud-native applications, distributed systems, CI/CD pipelines, and containerized deployments** that empower businesses to scale efficiently.
+I have worked at **Noon**, **JiBE ERP**, **Pakwheels.com**, and **Ebryx**, where I built scalable systems, optimized infrastructure, delivered production-ready services, and engineered cybersecurity & financial solutions.  
 
-I also love **problem solving** – honored as an **ICPC Gold & Silver Medalist**, I bring strong algorithmic and analytical skills to my engineering journey.
+- At **Pakwheels.com** (Pakistan’s #1 automotive classified), I worked as a **Full Stack Developer (Ruby on Rails, React, Django)**, building high-traffic APIs and search systems serving millions of users.  
+- At **Ebryx**, I worked on **Invisily (ZTNA product)**, focusing on **Zero Trust Network Access, IAM, and cybersecurity architecture**.  
+- At **JiBE ERP**, I engineered **ERP financial workflows** (invoicing, AR/AP, expense tracking) at scale.  
+- At **Noon**, I designed **financial backend workflows** for refunds, claims, cashback, and invoicing — saving **$1.2M+ annually** through automation.  
+
+Recognized as an **ICPC Gold & Silver Medalist**, I bring strong **problem-solving and system design** expertise to every project.  
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 🔹 Programming Languages
-- **Python** (FastAPI, Django, Flask)  
+- **Python** (FastAPI, Django, Flask, aioHTTP)  
 - **Rust** (systems & OS-level development)  
+- **Go (Golang)** (microservices, distributed systems, blockchain)  
+- **Ruby on Rails** (full-stack web applications)  
 - **C, C++** (competitive programming & performance engineering)  
-- **JavaScript/TypeScript** (React, Next.js for full-stack projects)  
+- **JavaScript/TypeScript** (React, Next.js, Node.js)  
 - **Kotlin & Java** (Android & backend tools)  
 
 ### 🔹 DevOps & Cloud
-- **AWS** (EC2, S3, RDS, VPC, Lambda, IAM, CloudFormation)  
+- **AWS** (ECS, RDS, S3, Lambda, ALB, IAM)  
 - **Docker & Kubernetes** (container orchestration & deployment)  
 - **Terraform & Ansible** (infrastructure as code & automation)  
-- **Jenkins, GitHub Actions, GitLab CI/CD**  
-- **Monitoring**: Prometheus, Grafana, ELK stack  
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD  
+- **Monitoring**: Prometheus, Grafana, ELK stack, OpenTelemetry  
 
 ### 🔹 Databases
-- **SQL**: PostgreSQL, MySQL  
+- **SQL**: PostgreSQL, MySQL, Elasticsearch  
 - **NoSQL**: MongoDB, Redis, ArangoDB  
 
 ### 🔹 AI/ML
@@ -43,52 +49,89 @@ I also love **problem solving** – honored as an **ICPC Gold & Silver Medalist*
 - **Computer Vision**: OpenCV, TensorFlow Lite  
 - **Custom AI Agents** for task automation  
 
+### 🔹 Web3 & Blockchain
+- **Ethereum** (Solidity, Smart Contracts, DApps, DeFi, NFTs)  
+- **Hyperledger Fabric** (enterprise blockchain)  
+- **Web3.js, Ethers.js, Hardhat, Truffle**  
+
+### 🔹 Cybersecurity
+- **ZTNA (Zero Trust Network Access)**  
+- **Invisily (Ebryx)** experience in secure access solutions  
+- **IAM, Audit Logging, Data Integrity, Secure Backend Engineering**  
+
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 Educare LMS
-**A full-scale Learning Management System (LMS)** designed for schools, colleges, and universities.  
-- **Tech Stack**: FastAPI (backend), React/Next.js (frontend), PostgreSQL, Docker  
-- **Features**: Role-based access (Admin, Teacher, Student), online classes, exam scheduling, results management, reporting dashboards  
+**A modern Learning Management System (LMS)** for schools, colleges, and universities.  
+- **Stack**: FastAPI, React/Next.js, PostgreSQL, Docker  
+- **Features**: Role-based access, online classes, exams, reports  
 - **SEO Keywords**: `LMS software`, `FastAPI school system`, `education technology platform`  
 🔗 [GitHub Repo](https://github.com/wak327/educare-lms)  
 
 ---
 
 ### 🔹 jinOs@ai
-**An AI-powered, cross-platform operating system** with Rust-based kernel and Flutter GUI.  
+**An AI-powered, cross-platform operating system** with Rust kernel + Flutter GUI.  
 - Runs on **PC (x86_64) and Smartphones (ARM64)**  
 - Supports **local + server-based AI** for low-power devices  
-- Integrated **AI assistant** for productivity  
 - **SEO Keywords**: `Rust OS`, `AI-powered operating system`, `Flutter GUI kernel`  
 🔗 [GitHub Repo](https://github.com/wak327/jinos-ai)  
 
 ---
 
 ### 🔹 AI Keep
-**A personal knowledge management system** powered by **FastAPI, LangChain, and RAG**.  
-- Store, organize, and search knowledge efficiently  
-- AI-assisted querying & contextual search  
+**A personal knowledge management system** with **FastAPI + LangChain RAG**.  
+- AI-assisted querying, contextual search  
 - **SEO Keywords**: `AI note-taking`, `LangChain RAG`, `FastAPI AI project`  
 🔗 [GitHub Repo](https://github.com/wak327/ai-keep)  
 
 ---
 
 ### 🔹 MergedApp
-**A cross-platform Android app** integrating **computer vision and radar sensors** for real-time detection.  
-- Built with **Kotlin, TensorFlow Lite, USB radar sensors**  
-- Supports **speed detection, motion tracking, and data logging**  
+**Android app integrating CV + radar sensors** for real-time detection.  
+- **Stack**: Kotlin, TensorFlow Lite, USB radar sensors  
 - **SEO Keywords**: `Kotlin CV`, `radar sensor detection`, `Android AI app`  
 🔗 [GitHub Repo](https://github.com/wak327/mergedapp)  
 
 ---
 
+## 💼 Professional Experience
+
+### 🚀 Noon (Dubai, UAE) — Software Engineer II (Python)   
+- Built financial workflows (refunds, claims, cashback) handling millions of transactions.  
+- Saved **$1.2M+ annually** via automated reconciliation pipelines.  
+- Designed distributed Celery/Redis jobs for high-volume financial events.  
+
+---
+
+### 🌊 JiBe ERP (Remote) — Senior Software Engineer (Python)  
+- Engineered **ERP finance modules** (AR/AP, invoicing, reconciliation).  
+- Refactored monolith into modular services for scalability.  
+- Built async pipelines for ERP transactions using Dramatiq/Celery.  
+
+---
+
+### 🚗 PakWheels.com (Lahore, Pakistan) — Software Engineer (Full Stack)  
+- Developed **high-traffic APIs** and **search systems** serving millions of users.  
+- Optimized queries → reduced page load time from **1.2s → 200ms**.  
+- Worked in **Ruby on Rails + React**, delivering end-to-end marketplace features.  
+
+---
+
+### 🛡 Ebryx (Lahore, Pakistan) — Software Engineer (Cybersecurity)  
+- Contributed to **Invisily (ZTNA product)** for secure, zero-trust network access.  
+- Built cross-platform secure backend APIs (Python + C++14).  
+- Strengthened **encryption, compliance, and IAM** in enterprise cybersecurity systems.  
+
+---
+
 ## 🏆 Achievements
-- 🥇 **ICPC Gold Medalist** (2022)  
-- 🥈 **ICPC Silver Medalist** (2021)  
-- 🎯 Designed & deployed **enterprise DevOps pipelines** saving **$100k+ in infra costs**  
-- 🏗 Built **LMS, AI-powered apps, and OS-level systems**  
+- 🥇 **ICPC Asia Gold Medalist** (2022)  
+- 🥈 **ICPC Asia Silver Medalist** (2021)  
+- 💼 Delivered **enterprise DevOps pipelines** saving $100k+ annually  
+- 🏗 Built **LMS, AI-powered OS, ERP, ZTNA & blockchain projects**  
 
 ---
 
@@ -103,34 +146,32 @@ I also love **problem solving** – honored as an **ICPC Gold & Silver Medalist*
 ## 🌐 Connect With Me
 - 💼 LinkedIn: [linkedin.com/in/muhammad-waleed-khalid-38a59419a](https://www.linkedin.com/in/muhammad-waleed-khalid-38a59419a/)  
 - 🌍 Portfolio: [www.waleedkhalid.me](http://www.waleedkhalid.me)  
-- 📧 Email: wak327@gmail.com  
+- 📧 Email: **wak327@gmail.com**  
 
 ---
 
 ✨ Always open to **collaborations, open-source contributions, and freelance projects**.  
-💡 My goal: **Build systems that scale & empower people with AI.**
+💡 My goal: **Build systems that scale & empower people with AI, Cloud, and Blockchain.**
 
 ---
 
 <!-- 
-SEO: Muhammad Waleed Khalid | Backend Engineer | DevOps | Software Engineer | Full Stack Developer | Python | Rust | Java | C++ | Kotlin | JavaScript | TypeScript | FastAPI | Django | Flask | Spring Boot | React | Next.js | Node.js | AI Engineer | Machine Learning Engineer | Data Scientist | Cloud Engineer | AWS | GCP | Azure | Docker | Kubernetes | Terraform | Ansible | Jenkins | CI/CD | GitHub Actions | GitLab CI | PostgreSQL | MySQL | MongoDB | Redis | ArangoDB | SQL | NoSQL | Distributed Systems | Event Driven Architecture | Microservices | System Design | OS Development | Custom Kernel | Flutter GUI | NLP | RAG Systems | LangChain | HuggingFace | OpenAI | Computer Vision | TensorFlow Lite | OpenCV | Competitive Programmer | ICPC Gold Medalist | ICPC Silver Medalist | Educare LMS | jinOs@ai | AI Keep | MergedApp | Cloud Infrastructure | Infrastructure as Code | Observability | Monitoring | Prometheus | Grafana | ELK Stack | Problem Solver | Open Source Contributor | Software Architect | Agile Development | Freelancer | Portfolio: www.waleedkhalid.me | LinkedIn: linkedin.com/in/muhammad-waleed-khalid-38a59419a
+SEO: Muhammad Waleed Khalid | Senior Backend Engineer | DevOps | Software Engineer | Full Stack Developer | Python | Rust | Go | Ruby on Rails | C++ | Kotlin | JavaScript | TypeScript | FastAPI | Django | Flask | Spring Boot | React | Next.js | Node.js | Automotive Classifieds | PakWheels | ICPC Medalist | AI Engineer | Machine Learning Engineer | Data Scientist | Cloud Engineer | AWS | GCP | Azure | Docker | Kubernetes | Terraform | Ansible | Jenkins | CI/CD | GitHub Actions | GitLab CI | PostgreSQL | MySQL | MongoDB | Redis | ArangoDB | SQL | NoSQL | Distributed Systems | Event Driven Architecture | Microservices | System Design | OS Development | Custom Kernel | Flutter GUI | NLP | RAG Systems | LangChain | HuggingFace | OpenAI | Computer Vision | TensorFlow Lite | OpenCV | Competitive Programmer | Educare LMS | jinOs@ai | AI Keep | MergedApp | ZTNA | Zero Trust Network Access | Invisily | Cybersecurity Engineer | Identity & Access Management | Blockchain Developer | Ethereum | Smart Contracts | Solidity | Web3 | DApps | DeFi | NFTs | Hyperledger Fabric | Private Blockchain | Pakistan Automotive #1 Classified | PakWheels Full Stack Developer | Noon E-commerce Engineer | JiBe ERP Engineer | Ebryx Cybersecurity
 -->
 
 <details>
   <summary>SEO Keywords</summary>
 
-- Software Engineer, Backend Engineer, DevOps Engineer, Cloud Engineer, AI Engineer, Machine Learning Engineer  
-- Full Stack Developer, Open Source Contributor, System Architect, Freelancer, Problem Solver  
-- Python Developer, Rust Developer, C++ Developer, Java Developer, Kotlin Developer, JavaScript/TypeScript Developer  
-- Frameworks: FastAPI, Django, Flask, Spring Boot, Node.js, React, Next.js, Express.js  
-- Cloud & DevOps: AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, GitHub Actions, GitLab CI, CI/CD  
-- Databases: PostgreSQL, MySQL, MongoDB, Redis, ArangoDB, SQL, NoSQL  
+- Backend Engineer, DevOps Engineer, Cloud Engineer, AI/ML Engineer, Blockchain Developer, Cybersecurity Engineer  
+- Full Stack Developer, Open Source Contributor, Problem Solver, System Architect  
+- Languages: Python, Rust, Go, Ruby on Rails, C++, Java, Kotlin, JavaScript, TypeScript  
+- Frameworks: FastAPI, Django, Flask, Node.js, React, Next.js, Spring Boot  
+- Cloud: AWS, GCP, Azure, Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD  
+- Databases: PostgreSQL, MySQL, MongoDB, Redis, ArangoDB, Elasticsearch  
 - Specialties: Microservices, Distributed Systems, Event Driven Architecture, System Design, Infrastructure as Code  
-- AI/ML: NLP, RAG Systems, LangChain, HuggingFace, OpenAI, TensorFlow Lite, Computer Vision, OpenCV  
-- Projects: Educare LMS, jinOs@ai (AI-powered OS), AI Keep (Knowledge Management), MergedApp (CV + Radar Integration)  
-- Achievements: ICPC Gold Medalist, ICPC Silver Medalist, Competitive Programmer  
-- Tools & Monitoring: Prometheus, Grafana, ELK Stack, SonarQube, Observability  
-- Professional Branding: Portfolio (www.waleedkhalid.me), LinkedIn (linkedin.com/in/muhammad-waleed-khalid-38a59419a)  
+- AI/ML: NLP, RAG Systems, LangChain, HuggingFace, OpenAI, Computer Vision, TensorFlow Lite, OpenCV  
+- Blockchain: Ethereum, Solidity, Smart Contracts, Hyperledger Fabric, Web3.js, DeFi, NFTs, DApps  
+- Cybersecurity: Zero Trust Network Access (ZTNA), Invisily, IAM, Audit Logging, Secure Backend Engineering  
+- Companies: Noon, JiBE ERP, PakWheels (#1 automotive classified in Pakistan), Ebryx (Cybersecurity)  
 
 </details>
-
