@@ -9,7 +9,7 @@
 ## 🌟 About Me
 
 I’m a highly motivated **Software Engineer** specializing in **Backend Development, DevOps, and AI/ML solutions**.  
-Currently working at **Noon**, where I build scalable systems, optimize infrastructure, and deliver production-ready services.  
+worked at **Noon**, **JiBE ERP**, **Pakwheels.com**, and **Ebryx**, where I build scalable systems, optimize infrastructure, and deliver production-ready services.  
 
 With over **5+ years of hands-on experience**, I have designed and implemented **cloud-native applications, distributed systems, CI/CD pipelines, and containerized deployments** that empower businesses to scale efficiently.
 
