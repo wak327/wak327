@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Waleed Khalid
 
-🚀 **Senior Backend & DevOps Engineer | AI/ML Enthusiast | Web3 & Blockchain Explorer | Open Source Builder**  
-🏅 **ICPC Gold Medalist (2022) & Silver Medalist (2021)**  
+🚀 **Lead / Senior Backend Engineer (Python • Cloud • Distributed Systems) | AI/ML Enthusiast | Web3 & Blockchain Explorer | Open Source Builder**  
+🏅 **ICPC Gold Medalist**  
 💡 Passionate about **Python, Rust, Go, Ruby on Rails, DevOps, Cloud, Cybersecurity, and AI-powered Operating Systems**
 
 ---
@@ -99,10 +99,18 @@ Recognized as an **ICPC Gold & Silver Medalist**, I bring strong **problem-solvi
 
 ## 💼 Professional Experience
 
-### 🚀 Noon (Dubai, UAE) — Software Engineer II (Python)   
-- Built financial workflows (refunds, claims, cashback) handling millions of transactions.  
-- Saved **$1.2M+ annually** via automated reconciliation pipelines.  
-- Designed distributed Celery/Redis jobs for high-volume financial events.  
+### 🚀 Noon (Dubai, UAE) — Senior Software Engineer  
+**Stack:** Python (FastAPI/Flask), Go, Java (Spring Boot – BNPL), SQLAlchemy, PostgreSQL, Redis, Google Pub/Sub, BigQuery, Docker/K8s, AWS/GCP, Prometheus/Grafana, OpenTelemetry, Nginx, Vonage, Meta/WhatsApp Business API, ZOHO/Zendesk
+- Architected and delivered distributed, event‑driven microservices that transformed the post‑purchase journey across Payments, Logistics, and Aftersales. Split monolithic flows into modular FastAPI endpoints and FE modules, improving resiliency and speed of change.
+- Built and optimized services for order lifecycle, payments, cashback, and refunds—including a scalable cashback engine and doorstep exchange system that yielded substantial operational savings.
+- Drove a 95% reduction in daily support contacts by redesigning returns/exchange flows with idempotent consumers, sagas/outbox, guardrails, and full observability (OTel + Prom/Grafana).
+- Migrated notifications from SMS → WhatsApp via Vonage + Meta Business APIs, cutting messaging costs ~70% and increasing delivery reliability.
+- Deployed ML models (instant refund eligibility; Gemini for content moderation) to automate decisions and streamline compliance in returns workflows.
+- Launched fulfillment orchestration for Namshi Supermall & Avenue, integrating Noon Food logistics to enable hyperlocal ~90‑minute deliveries, driving strong monthly order growth.
+- Migrated the ticketing platform Zendesk → ZOHO, reducing licensing spend ~70%; built seller‑support & dispute tools to onboard new stores and speed resolution.
+- Automated GCP ops for log/data retention, backups, and analytics dashboards in BigQuery for real‑time operational insights.
+- Contributed to Noon BNPL: architected distributed microservices (Java Spring Boot, Python, Go), delivered secure REST/SOAP APIs, integrated OAuth2/SAML, ensured compliance, and led third‑party integrations.
+- Led a 7‑member squad (2 backend, 3 frontend, 2 backend interns) as the primary POC for Aftersales; owned roadmaps, estimations, and cross‑team alignment. Drove design/PR reviews & peer reviews, mentored engineers, facilitated stakeholder sessions, and standardized service templates (structured logging, tracing, graceful shutdown).
 
 ---
 
@@ -128,18 +136,10 @@ Recognized as an **ICPC Gold & Silver Medalist**, I bring strong **problem-solvi
 ---
 
 ## 🏆 Achievements
-- 🥇 **ICPC Asia Gold Medalist** (2022)  
-- 🥈 **ICPC Asia Silver Medalist** (2021)  
+- 🥇 **ICPC Asia Gold Medalist** 
+- 🥈 **ICPC Asia Silver Medalist** 
 - 💼 Delivered **enterprise DevOps pipelines** saving $100k+ annually  
 - 🏗 Built **LMS, AI-powered OS, ERP, ZTNA & blockchain projects**  
-
----
-
-## 📊 GitHub Stats
-
-![Waleed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wak327&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wak327&layout=compact&theme=radical)  
 
 ---
 
