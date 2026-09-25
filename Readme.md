@@ -41,7 +41,7 @@ Open to **senior backend, platform, and engineering leadership roles** — remot
 ## Leadership highlights
 
 - **Built a new revenue line.** Led the technology for a Namshi instant-delivery vertical: integrated the Noon Food rider fleet and built a store platform for direct fashion-store deliveries.
-- **Moved the numbers.** Custom Tags at Motive (**~18% fewer customer contact queries**); CI/CD from **52 to 7.8 minutes**; Aftersales automation at noon saving **$1.2M+ per year**; a returns redesign that cut daily support contacts **95%**; a Zendesk-to-Zoho migration; CRM automation taking ticket handling.
+- **Moved the numbers.** Custom Tags at Motive (**~18% fewer customer contact queries**); CI/CD from **52 to 7.8 minutes**; a returns redesign that cut daily support contacts **95%**; a Zendesk-to-Zoho migration; CRM automation taking ticket handling.
 - **Applied AI in production.** A generative-AI shopping assistant on the Gemini API (prototype to production, with prompt design, retrieval and safety controls); RAG pipelines on LangChain, LlamaIndex and pgvector; Gemini content moderation; ML instant-refund eligibility; and authored/QA'd agent evaluation tasks for frontier AI lab benchmarks.
 - **Open source.** Maintain **SoftTrack**, an open-source issue tracker with outside contributors and a funded Open Collective.
 
