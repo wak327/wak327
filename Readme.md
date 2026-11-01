@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/muhammad-waleed-khalid-38a59419a/"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Waleed%20Khalid-0A66C2?style=flat-square" alt="LinkedIn"></a>
   <a href="https://www.waleedkhalid.me"><img src="https://img.shields.io/badge/Portfolio-waleedkhalid.me-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:wak327@gmail.com"><img src="https://img.shields.io/badge/Email-wak327%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://icpc.global/"><img src="https://img.shields.io/badge/ICPC-Asia%20Gold%20Medalist%20x2-F59E0B?style=flat-square&logo=codeforces&logoColor=white" alt="ICPC"></a>
+  <a href="https://icpc.global/ICPCID/4HW6491WBNQS"><img src="https://img.shields.io/badge/ICPC-Asia%20Gold%20Medalist%20x2-F59E0B?style=flat-square&logo=codeforces&logoColor=white" alt="ICPC"></a>
   <img src="https://img.shields.io/badge/Based%20in-Lahore,%20Pakistan-16A34A?style=flat-square" alt="Location">
 </p>
 
@@ -187,7 +187,7 @@ Small, production-shaped repos I use to show how I structure backend services.
 ## Education & awards
 
 - 🎓 **BS Software Engineering** — University of the Punjab, Lahore
-- 🥇 **ICPC Asia West Regional** — two gold medals, plus multiple silvers across consecutive contests
+- 🥇 [**ICPC Asia West Regional**](https://icpc.global/ICPCID/4HW6491WBNQS) — two gold medals, plus multiple silvers across consecutive contests
 
 ---
 
