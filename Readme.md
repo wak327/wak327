@@ -31,7 +31,7 @@
 ## Open-source contributions
 
 <!-- OSS-PRS:START -->
-<sub>**52 merged pull requests across 11 upstream projects** I don't own. Updated daily by a GitHub Action; each count links to the full list on GitHub.</sub>
+<sub>**53 merged pull requests across 11 upstream projects** I don't own. Updated daily by a GitHub Action; each count links to the full list on GitHub.</sub>
 
 | Project | Stars | Merged | Latest merged PRs |
 |---|---|--:|---|
@@ -45,7 +45,7 @@
 | [**unitxt**](https://github.com/IBM/unitxt)<br><sub>IBM · AI evaluation library</sub> | ![stars](https://img.shields.io/github/stars/IBM/unitxt?style=flat-square) | [1](https://github.com/IBM/unitxt/pulls?q=is%3Apr+is%3Amerged+author%3Awak327) | • [fix: Raise a clear error when HFSystemFormat's tokenizer has no chat te…](https://github.com/IBM/unitxt/pull/1983) |
 | [**react-components**](https://github.com/canonical/react-components)<br><sub>canonical · Vanilla Framework components</sub> | ![stars](https://img.shields.io/github/stars/canonical/react-components?style=flat-square) | [1](https://github.com/canonical/react-components/pulls?q=is%3Apr+is%3Amerged+author%3Awak327) | • [feat(MainTable): add scrollToTop prop to scroll to the top on page chan…](https://github.com/canonical/react-components/pull/1432) |
 | [**curtin**](https://github.com/canonical/curtin)<br><sub>canonical · Ubuntu storage and install backend</sub> | ![stars](https://img.shields.io/github/stars/canonical/curtin?style=flat-square) | [1](https://github.com/canonical/curtin/pulls?q=is%3Apr+is%3Amerged+author%3Awak327) | • [storage_config: mark partition tables with a partition at offset 0 unsu…](https://github.com/canonical/curtin/pull/59) |
-| [**microcloud-cluster-manager**](https://github.com/canonical/microcloud-cluster-manager)<br><sub>canonical · Entry point for MicroClouds</sub> | ![stars](https://img.shields.io/github/stars/canonical/microcloud-cluster-manager?style=flat-square) | [16](https://github.com/canonical/microcloud-cluster-manager/pulls?q=is%3Apr+is%3Amerged+author%3Awak327) | • [fix(ui): only accept whole threshold percentages from 1 to 100](https://github.com/canonical/microcloud-cluster-manager/pull/668)<br>• [fix(ui): link to the right Grafana job and encode cluster links](https://github.com/canonical/microcloud-cluster-manager/pull/673)<br>• [chore: remove leftover k8s dev cluster make targets](https://github.com/canonical/microcloud-cluster-manager/pull/658)<br><sub>and 13 more</sub> |
+| [**microcloud-cluster-manager**](https://github.com/canonical/microcloud-cluster-manager)<br><sub>canonical · Entry point for MicroClouds</sub> | ![stars](https://img.shields.io/github/stars/canonical/microcloud-cluster-manager?style=flat-square) | [17](https://github.com/canonical/microcloud-cluster-manager/pulls?q=is%3Apr+is%3Amerged+author%3Awak327) | • [fix(ui): sort cluster and token tables across all pages](https://github.com/canonical/microcloud-cluster-manager/pull/672)<br>• [fix(ui): only accept whole threshold percentages from 1 to 100](https://github.com/canonical/microcloud-cluster-manager/pull/668)<br>• [fix(ui): link to the right Grafana job and encode cluster links](https://github.com/canonical/microcloud-cluster-manager/pull/673)<br><sub>and 14 more</sub> |
 <!-- OSS-PRS:END -->
 
 ---
