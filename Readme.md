@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Waleed Khalid 👋</h1>
-
+<h1 align="center">MuhammadWaleedKhalid1999@gmail.com 👋</h1>
 <p align="center">
   <b>Senior Backend Engineer &amp; Tech Lead</b> · Python, FastAPI, Go, Rails · Distributed systems, cloud infrastructure, and applied AI
 </p>
